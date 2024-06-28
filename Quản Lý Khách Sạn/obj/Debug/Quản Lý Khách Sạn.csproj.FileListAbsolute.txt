@@ -1,0 +1,10 @@
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.cache
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb

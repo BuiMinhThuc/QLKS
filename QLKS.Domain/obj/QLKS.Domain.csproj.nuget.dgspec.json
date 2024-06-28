@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\QLKS.Domain\\QLKS.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\QLKS.Domain\\QLKS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\QLKS.Domain\\QLKS.Domain.csproj",
+        "projectName": "QLKS.Domain",
+        "projectPath": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\QLKS.Domain\\QLKS.Domain.csproj",
+        "packagesPath": "C:\\Users\\buimi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\QLKS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\buimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\Quản Lý Khách Sạn\\QLKS.Frontend.csproj": {
+                "projectPath": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\Quản Lý Khách Sạn\\QLKS.Frontend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Bunifu.UI.WinForms": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\Quản Lý Khách Sạn\\QLKS.Frontend.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\Quản Lý Khách Sạn\\QLKS.Frontend.csproj",
+        "projectName": "QLKS.Frontend",
+        "projectPath": "C:\\Users\\buimi\\Documents\\CODE\\C#\\Winform\\Quản Lý Khách Sạn\\Quản Lý Khách Sạn\\QLKS.Frontend.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
