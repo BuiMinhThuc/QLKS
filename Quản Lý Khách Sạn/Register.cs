@@ -133,6 +133,9 @@ namespace Quản_Lý_Khách_Sạn
                 Content = $"Mã xác nhận THUCHOTEL của bạn là {confirmEmail.Code} !"
             };
             SendEmail(emailTo);
+            Login frm = new Login(txtUsername.Text);
+            frm.Show();
+            this.Hide();
 
 
         }

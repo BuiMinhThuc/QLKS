@@ -13,21 +13,23 @@ namespace Quản_Lý_Khách_Sạn
     public partial class Login : Form
     {
         private Timer timer;
+        private string TemptUser="abcd";
         public Login()
         {
             InitializeComponent();
-            start();
-            // Tạo Timer
-            timer = new Timer();
-            timer.Interval = 1000; // Đặt khoảng thời gian là 1000ms (1 giây)
-            timer.Tick += timer1_Tick; // Liên kết sự kiện Tick của Timer với phương thức Timer_Tick
-            timer.Start(); // Bắt đầu Timer
+             this.Login_Load(this,EventArgs.Empty);
         }
-        
+
+        public Login(string temptUser)
+        {
+            InitializeComponent();
+            TemptUser = temptUser;
+            
+        }
 
         private void start()
         {
-            lblTime.Text = DateTime.Now.ToString("HH:mm:ss");
+            
         }
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
@@ -124,7 +126,13 @@ namespace Quản_Lý_Khách_Sạn
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+            txtUser.Text = TemptUser;
+            lblTime.Text = DateTime.Now.ToString("HH:mm:ss");
+            // Tạo Timer
+            timer = new Timer();
+            timer.Interval = 1000;
+            timer.Tick += timer1_Tick;
+            timer.Start();
         }
     }
 }
