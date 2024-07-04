@@ -430,6 +430,8 @@
             this.txtSDT.TextPlaceholder = "0987654321";
             this.txtSDT.UseSystemPasswordChar = false;
             this.txtSDT.WordWrap = true;
+            this.txtSDT.TextChanged += new System.EventHandler(this.txtSDT_TextChanged);
+            this.txtSDT.Leave += new System.EventHandler(this.txtSDT_Leave);
             // 
             // bunifuPanel4
             // 
@@ -695,6 +697,8 @@
             this.txtEmail.TextPlaceholder = "abc@example.com";
             this.txtEmail.UseSystemPasswordChar = false;
             this.txtEmail.WordWrap = true;
+            this.txtEmail.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
+            this.txtEmail.Leave += new System.EventHandler(this.txtEmail_Leave);
             // 
             // bunifuPanel1
             // 
@@ -720,9 +724,10 @@
             this.checkPassword.ForeColor = System.Drawing.Color.Red;
             this.checkPassword.Location = new System.Drawing.Point(59, 66);
             this.checkPassword.Name = "checkPassword";
-            this.checkPassword.Size = new System.Drawing.Size(64, 16);
+            this.checkPassword.Size = new System.Drawing.Size(518, 16);
             this.checkPassword.TabIndex = 7;
-            this.checkPassword.Text = "Try again";
+            this.checkPassword.Text = "Password must be 8-20 characters long at least one special character and one numb" +
+    "er";
             this.checkPassword.Visible = false;
             // 
             // label3
@@ -810,6 +815,8 @@
             this.txtPassword.TextPlaceholder = "Enter text";
             this.txtPassword.UseSystemPasswordChar = false;
             this.txtPassword.WordWrap = true;
+            this.txtPassword.TextChanged += new System.EventHandler(this.txtPassword_TextChanged);
+            this.txtPassword.Leave += new System.EventHandler(this.txtPassword_Leave);
             // 
             // bunifuPanel3
             // 
@@ -835,9 +842,9 @@
             this.checkUser.ForeColor = System.Drawing.Color.Red;
             this.checkUser.Location = new System.Drawing.Point(59, 66);
             this.checkUser.Name = "checkUser";
-            this.checkUser.Size = new System.Drawing.Size(64, 16);
+            this.checkUser.Size = new System.Drawing.Size(225, 16);
             this.checkUser.TabIndex = 7;
-            this.checkUser.Text = "Try again";
+            this.checkUser.Text = "It should not contain any whitespace !";
             this.checkUser.Visible = false;
             this.checkUser.Click += new System.EventHandler(this.checkUser_Click);
             // 
@@ -926,6 +933,8 @@
             this.txtUsername.TextPlaceholder = "abc";
             this.txtUsername.UseSystemPasswordChar = false;
             this.txtUsername.WordWrap = true;
+            this.txtUsername.TextChanged += new System.EventHandler(this.txtUsername_TextChanged);
+            this.txtUsername.Leave += new System.EventHandler(this.txtUsername_Leave);
             // 
             // Register
             // 

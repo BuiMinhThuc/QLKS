@@ -47,3 +47,46 @@ C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khá
 C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
 C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BCrypt.Net-Next.dll
 C:\Users\buimi\Documents\CODE\C#\Winform\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\EntityFramework.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\RestSharp.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Buffers.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.CodeDom.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Memory.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Text.Json.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.ValueTuple.dll
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\EntityFramework.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\RestSharp.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Buffers.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.CodeDom.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Memory.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Text.Json.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\bin\Debug\System.ValueTuple.xml
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Login.resources
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Register.resources
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe.licenses
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\buimi\Source\Repos\QLKS\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb

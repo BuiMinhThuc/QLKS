@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//v1.1
 namespace Quản_Lý_Khách_Sạn
 {
     internal static class Program

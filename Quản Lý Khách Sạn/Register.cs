@@ -12,6 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BCryptNet = BCrypt.Net.BCrypt;
+using Quản_Lý_Khách_Sạn.ClassSupport;
 namespace Quản_Lý_Khách_Sạn
 {
     public partial class Register : Form
@@ -171,6 +172,58 @@ namespace Quản_Lý_Khách_Sạn
         private void Register_FormClosing(object sender, FormClosingEventArgs e)
         {
             
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+            checkUser.Visible = false;
+        }
+
+        private void txtUsername_Leave(object sender, EventArgs e)
+        {
+            if (Check_Input.IsWhiteSpace(txtUsername.Text) || txtUsername.Text.Length < 5 || txtUsername.Text.Length > 15)
+            {
+                checkUser.Visible = true;
+            }
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+            checkPassword.Visible = false;
+        }
+
+        private void txtPassword_Leave(object sender, EventArgs e)
+        {
+            if (!Check_Input.Password_Ok(txtPassword.Text))
+            {
+                checkPassword.Visible = true;
+            }
+        }
+
+        private void txtEmail_TextChanged(object sender, EventArgs e)
+        {
+            checkEmail.Visible = false;
+        }
+
+        private void txtEmail_Leave(object sender, EventArgs e)
+        {
+            if (!Check_Input.IsValidEmail(txtEmail.Text))
+            {
+                checkEmail.Visible = true;
+            }
+        }
+
+        private void txtSDT_TextChanged(object sender, EventArgs e)
+        {
+            CheckPhone.Visible = false;
+        }
+
+        private void txtSDT_Leave(object sender, EventArgs e)
+        {
+            if (!Check_Input.IsValidPhoneNumber(txtSDT.Text))
+            {
+                CheckPhone.Visible = true;
+            }
         }
     }
 }
